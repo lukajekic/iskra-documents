@@ -9,4 +9,5 @@ This repository is used for public access to Iskra's documentation and for asset
  - [Detaljan uvid u rad učenika [SRB]](https://lukajekic.github.io/iskra-documents/uvid-u-rad-ucenika.pdf)
  - [IskraAI - uputstvo za upotrebu [SRB]](https://lukajekic.github.io/iskra-documents/iskra-ai-uputstvo.pdf)
  - [Kreiranje teorijskih zadataka [SRB]](https://lukajekic.github.io/iskra-documents/kreiranje-teorijskih-zadataka.pdf)
+ - [Kreiranje kontrolnih zadataka [SRB]](https://lukajekic.github.io/iskra-documents/kreiranje-kontrolnih-zadataka.pdf)
 ## Thank your for using Iskra.
