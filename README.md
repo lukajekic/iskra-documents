@@ -11,4 +11,5 @@ This repository is used for public access to Iskra's documentation and for asset
  - [Kreiranje teorijskih zadataka [SRB]](https://lukajekic.github.io/iskra-documents/kreiranje-teorijskih-zadataka.pdf)
  - [Kreiranje kontrolnih zadataka [SRB]](https://lukajekic.github.io/iskra-documents/kreiranje-kontrolnih-zadataka.pdf)
  - [Priručnik za održavanje kontrolnih zadataka [SRB]](https://lukajekic.github.io/iskra-documents/prirucnik-kontrolni-zadaci.pdf)
+ - [Uputstvo za upotrebu Iskre na Apple uređajima [SRB]](https://lukajekic.github.io/iskra-documents/uputstvo-za-upotrebu-na-apple-uredjajima.pdf)
 ## Thank your for using Iskra.
