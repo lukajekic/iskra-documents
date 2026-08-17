@@ -13,4 +13,5 @@ This repository is used for public access to Iskra's documentation and for asset
  - [Priručnik za održavanje kontrolnih zadataka [SRB]](https://lukajekic.github.io/iskra-documents/prirucnik-kontrolni-zadaci.pdf)
  - [Uputstvo za upotrebu Iskre na Apple uređajima [SRB]](https://lukajekic.github.io/iskra-documents/uputstvo-za-upotrebu-na-apple-uredjajima.pdf)
  - [Uputstvo za upotrebu Iskra Planner [SRB]](https://lukajekic.github.io/iskra-documents/uputstvo_za_upotrebu_iskra_planner.pdf)
+ - [Pravni saveti za unos ocena [SRB]](https://lukajekic.github.io/iskra-documents/Unos%20ocena%20-%20pravni%20saveti.pdf)
 ## Thank your for using Iskra.
